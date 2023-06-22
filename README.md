@@ -8,7 +8,9 @@
   - [fCAT](https://github.com/BIONF/fCAT) | Python package for assessment of genome annotation completeness and quality
   - [taxFun](https://github.com/trvinh/taxFun) | R package for working with NCBI taxonomy data
  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=trvinh)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=trvinh&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trvinh&layout=compact)
+
 
 <!---
 trvinh/trvinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

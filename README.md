@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinh
-- 👀 I’m interested in bioinformatic tools, data analysis and visualisation
+- 👀 I’m interested in bioinformatic tools, data analysis and data visualisation
 - 🌱 I’m currently learning ML using R and Python
 - 📫 You can reach me via email trvinh@gmail.com
 - 🚧 Main projects:

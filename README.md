@@ -9,8 +9,7 @@
   - [taxFun](https://github.com/trvinh/taxFun) | R package for working with NCBI taxonomy data
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=trvinh&rank_icon=percentile&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api?username=trvinh&rank_icon=percentile&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=catppuccin_latte)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=trvinh&layout=compact&langs_count=6&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api/top-langs?username=trvinh&layout=compact&langs_count=6&theme=catppuccin_latte)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=trvinh&layout=donut&langs_count=5&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api/top-langs?username=trvinh&layout=donut&langs_count=5&theme=catppuccin_latte)
 
 
 <!---
